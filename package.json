@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cristinefolz/twilioLF/issues"
   },
-  "homepage": "https://github.com/cristinefolz/twilioLF#readme"
+  "homepage": "https://github.com/cristinefolz/twilioLF#readme",
+  "dependencies": {
+    "twilio": "^2.9.1"
+  }
 }
